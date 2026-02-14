@@ -49,16 +49,11 @@ Thumbs.db
 *.joblib
 
 # Parquet / CSV / datasets
+Core/original_data_parquet
+Core/training_features_parquet
 *.parquet
 *.csv
 *.tsv
-
-#################################################
-# Project Specific Folders ######################
-#################################################
-
-Core/
-Data/
 
 #################################################
 # Logs ###########################################
